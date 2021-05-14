@@ -3,7 +3,7 @@ using System;
 
 
 
-namespace normal_consolea_app
+namespace normal_console_app
 {
     class Program
     {

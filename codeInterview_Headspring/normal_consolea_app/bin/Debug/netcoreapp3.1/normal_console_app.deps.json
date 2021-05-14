@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "normal_console_app/1.0.0": {
+        "dependencies": {
+          "SuperFizzBuzz": "1.0.0"
+        },
+        "runtime": {
+          "normal_console_app.dll": {}
+        }
+      },
+      "SuperFizzBuzz/1.0.0": {
+        "runtime": {
+          "SuperFizzBuzz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "normal_console_app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SuperFizzBuzz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

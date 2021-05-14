@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "SuperFizzBuzz/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/SuperFizzBuzz.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SuperFizzBuzz.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "SuperFizzBuzz/1.0.0": {
-      "type": "project",
-      "path": "../SuperFizzBuzz/SuperFizzBuzz.csproj",
-      "msbuildProject": "../SuperFizzBuzz/SuperFizzBuzz.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "SuperFizzBuzz >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
     "C:\\Users\\ulyse\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\normal_consolea_app\\normal_console_app.csproj",
-      "projectName": "normal_console_app",
-      "projectPath": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\normal_consolea_app\\normal_console_app.csproj",
+      "projectUniqueName": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\advanced_console_app\\advanced_console_app.csproj",
+      "projectName": "advanced_console_app",
+      "projectPath": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\advanced_console_app\\advanced_console_app.csproj",
       "packagesPath": "C:\\Users\\ulyse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\normal_consolea_app\\obj\\",
+      "outputPath": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\advanced_console_app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ulyse\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\SuperFizzBuzz.csproj": {
-              "projectPath": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\SuperFizzBuzz.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
