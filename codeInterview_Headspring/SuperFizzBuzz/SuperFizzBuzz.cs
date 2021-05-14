@@ -1,8 +1,13 @@
 ﻿using System;
 
-namespace SuperFizzBuzz
+namespace SuperFizzBuzz_ns
 {
     public class SuperFizzBuzz
     {
+        public  SuperFizzBuzz(){}
+        public  string sayHello() 
+        {
+            return "Hello baby";
+        }
     }
 }

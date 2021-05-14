@@ -1,4 +1,7 @@
-﻿using System;
+﻿using SuperFizzBuzz_ns;
+using System;
+
+
 
 namespace normal_consolea_app
 {
@@ -6,7 +9,8 @@ namespace normal_consolea_app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var objsuperFizzBuzz = new SuperFizzBuzz();
+            Console.WriteLine(objsuperFizzBuzz.sayHello());
         }
     }
 }
