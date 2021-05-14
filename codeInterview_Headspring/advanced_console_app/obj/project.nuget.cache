@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "axb28npUwCNP8VBYNXMJ3AZxB19cE/y9teoTFz8I4oMQNDMyAlvIE10lAFPVKvfCb1XNT91vfxxQoEWEE525HQ==",
+  "dgSpecHash": "wVGSWUk6tq3DOgkdgMB8EFqbxauiLPmz5IuJqL2H/4c2Ok5z8nBTzxF2slTmsMSk8L8mFqPfeOuKYMvZIUr5KA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\advanced_console_app\\advanced_console_app.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ulyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\1098350515\\Documents\\gitPersonal\\codeInterview_HeadSpring\\codeInterview_Headspring\\advanced_console_app\\advanced_console_app.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

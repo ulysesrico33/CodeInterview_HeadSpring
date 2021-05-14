@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ulyse\\.nuget\\packages\\": {}
+    "C:\\Users\\1098350515\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\SuperFizzBuzz.csproj",
+      "projectUniqueName": "C:\\Users\\1098350515\\Documents\\gitPersonal\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\SuperFizzBuzz.csproj",
       "projectName": "SuperFizzBuzz",
-      "projectPath": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\SuperFizzBuzz.csproj",
-      "packagesPath": "C:\\Users\\ulyse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\obj\\",
+      "projectPath": "C:\\Users\\1098350515\\Documents\\gitPersonal\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\SuperFizzBuzz.csproj",
+      "packagesPath": "C:\\Users\\1098350515\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\1098350515\\Documents\\gitPersonal\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ulyse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\1098350515\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

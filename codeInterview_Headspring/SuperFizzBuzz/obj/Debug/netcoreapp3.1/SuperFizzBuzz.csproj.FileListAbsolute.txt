@@ -7,3 +7,12 @@ C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\S
 C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\SuperFizzBuzz\obj\Debug\netcoreapp3.1\SuperFizzBuzz.csproj.CoreCompileInputs.cache
 C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\SuperFizzBuzz\obj\Debug\netcoreapp3.1\SuperFizzBuzz.dll
 C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\SuperFizzBuzz\obj\Debug\netcoreapp3.1\SuperFizzBuzz.pdb
+C:\Users\1098350515\Documents\gitPersonal\codeInterview_HeadSpring\codeInterview_Headspring\SuperFizzBuzz\bin\Debug\netcoreapp3.1\SuperFizzBuzz.deps.json
+C:\Users\1098350515\Documents\gitPersonal\codeInterview_HeadSpring\codeInterview_Headspring\SuperFizzBuzz\bin\Debug\netcoreapp3.1\SuperFizzBuzz.dll
+C:\Users\1098350515\Documents\gitPersonal\codeInterview_HeadSpring\codeInterview_Headspring\SuperFizzBuzz\bin\Debug\netcoreapp3.1\SuperFizzBuzz.pdb
+C:\Users\1098350515\Documents\gitPersonal\codeInterview_HeadSpring\codeInterview_Headspring\SuperFizzBuzz\obj\Debug\netcoreapp3.1\SuperFizzBuzz.csprojAssemblyReference.cache
+C:\Users\1098350515\Documents\gitPersonal\codeInterview_HeadSpring\codeInterview_Headspring\SuperFizzBuzz\obj\Debug\netcoreapp3.1\SuperFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\1098350515\Documents\gitPersonal\codeInterview_HeadSpring\codeInterview_Headspring\SuperFizzBuzz\obj\Debug\netcoreapp3.1\SuperFizzBuzz.AssemblyInfo.cs
+C:\Users\1098350515\Documents\gitPersonal\codeInterview_HeadSpring\codeInterview_Headspring\SuperFizzBuzz\obj\Debug\netcoreapp3.1\SuperFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\1098350515\Documents\gitPersonal\codeInterview_HeadSpring\codeInterview_Headspring\SuperFizzBuzz\obj\Debug\netcoreapp3.1\SuperFizzBuzz.dll
+C:\Users\1098350515\Documents\gitPersonal\codeInterview_HeadSpring\codeInterview_Headspring\SuperFizzBuzz\obj\Debug\netcoreapp3.1\SuperFizzBuzz.pdb

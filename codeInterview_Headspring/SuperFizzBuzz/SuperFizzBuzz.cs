@@ -5,9 +5,9 @@ namespace codeInterview_HeadSpring
     public class SuperFizzBuzz
     {
         public  SuperFizzBuzz(){}
-        public  string sayHello() 
+        public  void startSuperFizzBuzz() 
         {
-            return "Hello baby";
+            Console.WriteLine("Starting...");
         }
     }
 }

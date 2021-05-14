@@ -10,7 +10,7 @@ namespace normal_console_app
         static void Main(string[] args)
         {
             var objsuperFizzBuzz = new SuperFizzBuzz();
-            Console.WriteLine(objsuperFizzBuzz.sayHello());
+            objsuperFizzBuzz.startSuperFizzBuzz();
         }
     }
 }
