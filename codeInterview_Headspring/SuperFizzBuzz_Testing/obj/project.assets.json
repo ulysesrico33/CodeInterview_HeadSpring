@@ -1634,6 +1634,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "SuperFizzBuzz/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SuperFizzBuzz.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SuperFizzBuzz.dll": {}
+        }
       }
     }
   },
@@ -5705,6 +5715,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "SuperFizzBuzz/1.0.0": {
+      "type": "project",
+      "path": "../SuperFizzBuzz/SuperFizzBuzz.csproj",
+      "msbuildProject": "../SuperFizzBuzz/SuperFizzBuzz.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5712,6 +5727,7 @@
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
+      "SuperFizzBuzz >= 1.0.0",
       "coverlet.collector >= 1.2.0"
     ]
   },
@@ -5741,7 +5757,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\1098350515\\Documents\\gitPersonal\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\SuperFizzBuzz.csproj": {
+              "projectPath": "C:\\Users\\1098350515\\Documents\\gitPersonal\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\SuperFizzBuzz.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

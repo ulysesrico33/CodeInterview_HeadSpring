@@ -9,7 +9,7 @@ namespace codeInterview_HeadSpring
 
 
         private Dictionary<int, string> dictPref = new Dictionary<int, string>();
-        private Dictionary<int, string> dictOutput = new Dictionary<int, string>();
+        public Dictionary<int, string> dictOutput = new Dictionary<int, string>();
         private List<string> lsFinalOutput = new List<string>();
 
 
@@ -111,10 +111,10 @@ namespace codeInterview_HeadSpring
         /// </summary>
         /// <param name="dividend"></param>
         private void processDividend(int dividend)
-    {
+        {
         foreach (var item in dictPref)
             isDividedByNumber(dividend, item.Key);
-    }
+        }
 
 }
 //End of class
