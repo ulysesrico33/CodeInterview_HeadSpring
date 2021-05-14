@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C9KtIqCN12L9Jz4L2//sfg8nec4P1zPKhR6BcGJupbZDm+lhTuthY/NxQ9e1r4NM+Bic9z/PeoZStliO4DXY7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\normal_consolea_app\\normal_consolea_app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ulyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
