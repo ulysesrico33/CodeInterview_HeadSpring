@@ -2,7 +2,7 @@
 
 namespace SuperFizzBuzz
 {
-    public class Class1
+    public class SuperFizzBuzz
     {
     }
 }
