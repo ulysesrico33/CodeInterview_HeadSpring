@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "SuperFizzBuzz/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SuperFizzBuzz.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SuperFizzBuzz.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SuperFizzBuzz/1.0.0": {
+      "type": "project",
+      "path": "../SuperFizzBuzz/SuperFizzBuzz.csproj",
+      "msbuildProject": "../SuperFizzBuzz/SuperFizzBuzz.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "SuperFizzBuzz >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\1098350515\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\1098350515\\Documents\\gitPersonal\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\SuperFizzBuzz.csproj": {
+              "projectPath": "C:\\Users\\1098350515\\Documents\\gitPersonal\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\SuperFizzBuzz.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

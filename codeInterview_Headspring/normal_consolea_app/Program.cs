@@ -15,8 +15,19 @@ namespace normal_console_app
             dictPref.Add(13, "Duck");
             dictPref.Add(9, "Chicken");
             var objsuperFizzBuzz = new SuperFizzBuzz(dictPref);
-            List<int> lsNumber = new List<int> { 5,6 };
-            objsuperFizzBuzz.startSuperFizzBuzz(lsNumber);
+            List<int> lsNumber = new List<int> { 50,51,52,30,36,468,469 };
+
+            try
+            {
+                objsuperFizzBuzz.startSuperFizzBuzz(lsNumber);
+            }
+            catch (Exception ex) 
+            {
+                Console.WriteLine("Error: "+ex.ToString());
+            }
+
+            
+            
         }
     }
 }
