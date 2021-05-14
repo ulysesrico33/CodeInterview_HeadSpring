@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "normal_console_app", "norma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperFizzBuzz", "SuperFizzBuzz\SuperFizzBuzz.csproj", "{0877A080-8ACE-4392-A4FF-06A7364B0F8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advanced_console_app", "advanced_console_app\advanced_console_app.csproj", "{C9AE802B-989F-467F-936D-BA227E3B31C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "advanced_console_app", "advanced_console_app\advanced_console_app.csproj", "{C9AE802B-989F-467F-936D-BA227E3B31C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperFizzBuzz_Testing", "SuperFizzBuzz_Testing\SuperFizzBuzz_Testing.csproj", "{315537AB-A20C-4E1B-9611-AB31BFB349CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C9AE802B-989F-467F-936D-BA227E3B31C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9AE802B-989F-467F-936D-BA227E3B31C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9AE802B-989F-467F-936D-BA227E3B31C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{315537AB-A20C-4E1B-9611-AB31BFB349CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315537AB-A20C-4E1B-9611-AB31BFB349CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315537AB-A20C-4E1B-9611-AB31BFB349CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315537AB-A20C-4E1B-9611-AB31BFB349CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
