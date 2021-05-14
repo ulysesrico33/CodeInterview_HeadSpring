@@ -1,4 +1,4 @@
-﻿using SuperFizzBuzz_ns;
+﻿using codeInterview_HeadSpring;
 using System;
 
 

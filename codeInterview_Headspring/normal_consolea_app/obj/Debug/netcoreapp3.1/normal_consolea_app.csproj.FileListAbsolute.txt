@@ -1,0 +1,16 @@
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\obj\Debug\netcoreapp3.1\normal_consolea_app.csprojAssemblyReference.cache
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\obj\Debug\netcoreapp3.1\normal_consolea_app.AssemblyInfoInputs.cache
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\obj\Debug\netcoreapp3.1\normal_consolea_app.AssemblyInfo.cs
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\obj\Debug\netcoreapp3.1\normal_consolea_app.csproj.CoreCompileInputs.cache
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\bin\Debug\netcoreapp3.1\normal_consolea_app.exe
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\bin\Debug\netcoreapp3.1\normal_consolea_app.deps.json
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\bin\Debug\netcoreapp3.1\normal_consolea_app.runtimeconfig.json
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\bin\Debug\netcoreapp3.1\normal_consolea_app.runtimeconfig.dev.json
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\bin\Debug\netcoreapp3.1\normal_consolea_app.dll
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\bin\Debug\netcoreapp3.1\normal_consolea_app.pdb
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\bin\Debug\netcoreapp3.1\SuperFizzBuzz.dll
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\bin\Debug\netcoreapp3.1\SuperFizzBuzz.pdb
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\obj\Debug\netcoreapp3.1\normal_consolea_app.csproj.CopyComplete
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\obj\Debug\netcoreapp3.1\normal_consolea_app.dll
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\obj\Debug\netcoreapp3.1\normal_consolea_app.pdb
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\normal_consolea_app\obj\Debug\netcoreapp3.1\normal_consolea_app.genruntimeconfig.cache

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SuperFizzBuzz_ns
+namespace codeInterview_HeadSpring
 {
     public class SuperFizzBuzz
     {
