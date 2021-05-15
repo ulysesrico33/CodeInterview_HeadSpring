@@ -27,3 +27,6 @@ C:\Users\1098350515\Documents\gitPersonal\codeInterview_HeadSpring\codeInterview
 C:\Users\1098350515\Documents\gitPersonal\codeInterview_HeadSpring\codeInterview_Headspring\advanced_console_app\bin\Debug\netcoreapp3.1\SuperFizzBuzz.dll
 C:\Users\1098350515\Documents\gitPersonal\codeInterview_HeadSpring\codeInterview_Headspring\advanced_console_app\bin\Debug\netcoreapp3.1\SuperFizzBuzz.pdb
 C:\Users\1098350515\Documents\gitPersonal\codeInterview_HeadSpring\codeInterview_Headspring\advanced_console_app\obj\Debug\netcoreapp3.1\advanced_console_app.csproj.CopyComplete
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\advanced_console_app\bin\Debug\netcoreapp3.1\SuperFizzBuzz.dll
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\advanced_console_app\bin\Debug\netcoreapp3.1\SuperFizzBuzz.pdb
+C:\Users\ulyse\Documents\git\codeInterview_HeadSpring\codeInterview_Headspring\advanced_console_app\obj\Debug\netcoreapp3.1\advanced_console_app.csproj.CopyComplete

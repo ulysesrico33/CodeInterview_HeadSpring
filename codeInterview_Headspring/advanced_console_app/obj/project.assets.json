@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\1098350515\\.nuget\\packages\\": {}
+    "C:\\Users\\ulyse\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1098350515\\Documents\\gitPersonal\\codeInterview_HeadSpring\\codeInterview_Headspring\\advanced_console_app\\advanced_console_app.csproj",
+      "projectUniqueName": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\advanced_console_app\\advanced_console_app.csproj",
       "projectName": "advanced_console_app",
-      "projectPath": "C:\\Users\\1098350515\\Documents\\gitPersonal\\codeInterview_HeadSpring\\codeInterview_Headspring\\advanced_console_app\\advanced_console_app.csproj",
-      "packagesPath": "C:\\Users\\1098350515\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1098350515\\Documents\\gitPersonal\\codeInterview_HeadSpring\\codeInterview_Headspring\\advanced_console_app\\obj\\",
+      "projectPath": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\advanced_console_app\\advanced_console_app.csproj",
+      "packagesPath": "C:\\Users\\ulyse\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\advanced_console_app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\1098350515\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ulyse\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\1098350515\\Documents\\gitPersonal\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\SuperFizzBuzz.csproj": {
-              "projectPath": "C:\\Users\\1098350515\\Documents\\gitPersonal\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\SuperFizzBuzz.csproj"
+            "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\SuperFizzBuzz.csproj": {
+              "projectPath": "C:\\Users\\ulyse\\Documents\\git\\codeInterview_HeadSpring\\codeInterview_Headspring\\SuperFizzBuzz\\SuperFizzBuzz.csproj"
             }
           }
         }
@@ -78,12 +78,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.13, 3.1.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

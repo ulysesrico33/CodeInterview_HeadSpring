@@ -8,9 +8,9 @@ namespace codeInterview_HeadSpring
     {
 
 
-        private Dictionary<int, string> dictPref = new Dictionary<int, string>();
-        public Dictionary<int, string> dictOutput = new Dictionary<int, string>();
-        private List<string> lsFinalOutput = new List<string>();
+        private Dictionary<int, string> _dictPref = new Dictionary<int, string>();
+        public Dictionary<int, string> _dictOutput = new Dictionary<int, string>();
+        private List<string> _lsFinalOutput = new List<string>();
 
 
         /// <summary>
@@ -22,7 +22,7 @@ namespace codeInterview_HeadSpring
         {
             //Adding the customizable labels for each possible dividend
             foreach (var item in dictPreferences)
-                dictPref.Add(item.Key, item.Value);
+                _dictPref.Add(item.Key, item.Value);
 
 
         }
@@ -59,19 +59,19 @@ namespace codeInterview_HeadSpring
 
         //Printing results
 
-        foreach (var item in dictOutput)
+        foreach (var item in _dictOutput)
         {
             //Case: The number wasn't dividend of any divisor, then it doesn't have a "token"
             if (item.Value == "")
-                lsFinalOutput.Add(item.Key.ToString());
+                _lsFinalOutput.Add(item.Key.ToString());
             else
-                lsFinalOutput.Add(item.Value);
+                _lsFinalOutput.Add(item.Value);
 
 
         }
 
         //Print the final result
-        foreach (var item in lsFinalOutput)
+        foreach (var item in _lsFinalOutput)
             Console.WriteLine(item);
 
 
@@ -88,15 +88,15 @@ namespace codeInterview_HeadSpring
         private void isDividedByNumber(int dividend, int divisor)
     {
         //Add all the testing numbers
-        if (!dictOutput.ContainsKey(dividend))
-            dictOutput.Add(dividend, "");
+        if (!_dictOutput.ContainsKey(dividend))
+            _dictOutput.Add(dividend, "");
 
         if ((dividend % divisor) == 0)
         {
 
-            string currentOutputValue = dictOutput[dividend];
-            currentOutputValue += dictPref[divisor];
-            dictOutput[dividend] = currentOutputValue;
+            string currentOutputValue = _dictOutput[dividend];
+            currentOutputValue += _dictPref[divisor];
+            _dictOutput[dividend] = currentOutputValue;
 
 
         }
@@ -112,7 +112,7 @@ namespace codeInterview_HeadSpring
         /// <param name="dividend"></param>
         private void processDividend(int dividend)
         {
-        foreach (var item in dictPref)
+        foreach (var item in _dictPref)
             isDividedByNumber(dividend, item.Key);
         }
 
