@@ -1,0 +1,12 @@
+The solution has:
+
+
+1) A class library which covers Req #1
+2) A console app named "normal_console_app" which covers Req #2
+3) A console app console named "advanced_console_app" which covers Req #3
+4) A testing project which covers Req #4
+
+
+Notes:
+
+Req : Short for Requirement from Requirements' list.
